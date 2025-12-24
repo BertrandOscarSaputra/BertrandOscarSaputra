@@ -1,42 +1,79 @@
-# [Bertrand] - Interactive Profile 🚀
+# 👋 Hi, I’m Bertrand Oscar Saputra
 
-## 👋 Quick Intro
-- **Name**: Bertrand Oscar Saputra
-- **Location**: Indonesia
-- **Role**: Undergraduate Student at Universitas Klabat
-- **GitHub**: [@BertrandOscarSaputra](https://github.com/BertrandOscarSaputra)
+🎓 **Undergraduate Student** at Universitas Klabat  
+📍 **Based in Indonesia**  
+💻 **Aspiring Full-Stack Developer**  
+🔗 GitHub: [@BertrandOscarSaputra](https://github.com/BertrandOscarSaputra)
 
-🌟 About Me
+---
 
-I’m a passionate fullstack developer who enjoys building meaningful digital experiences. I’m especially interested in web and mobile development, with a strong focus on performance, usability, and modern UI design.
-Currently, I’m sharpening my skills in full-stack development and exploring how different technologies work together to create scalable products.
+## 🌟 About Me
 
-My favorite programming languages are TypeScript, JavaScript, and Python, and I enjoy working with frameworks like Next.js and React Native.
-Fun fact: I love optimizing things—whether it’s website performance, code structure, or developer workflows.
+I’m a passionate **full-stack developer** who enjoys building meaningful digital experiences with a strong focus on **performance**, **usability**, and **modern UI design**.
 
-My development journey started with curiosity about how websites work, and it has grown into a continuous pursuit of learning, experimenting, and building real-world projects.
+I’m especially interested in **web and mobile development**, where I enjoy exploring how different technologies work together to create scalable, production-ready products.
 
-🎯 Current Focus
+My development journey started with simple curiosity about how websites work, and it has grown into a continuous pursuit of **learning, experimenting, and shipping real-world projects**.
 
-Learning: Advanced Next.js, performance optimization, and rust
+**Fun fact:** I love optimizing things — whether it’s website performance, code structure, or developer workflows.
 
-Building: Personal web projects, experimental tool
+---
 
-Exploring: Rust, system-level programming, and better ways to combine frontend with backend services
+## 🧠 Tech Stack & Interests
 
-Goals: Become a more well-rounded full-stack developer and ship polished, production-ready projects this year, also contributing to open source projects
+**Languages**
+- TypeScript
+- JavaScript
+- Python
+- (Currently exploring **Rust** 🦀)
+
+**Frameworks & Tools**
+- Next.js
+- React
+- React Native
+- Firebase
+- Git & GitHub
+
+**What I enjoy working on**
+- Performance optimization
+- Clean architecture & maintainable code
+- UI/UX with attention to detail
+- Experimenting with new tech stacks
+
+---
+
+## 🎯 Current Focus
+
+- 📚 **Learning**: Advanced Next.js, performance optimization, and Rust  
+- 🛠 **Building**: Personal web projects & experimental developer tools  
+- 🔍 **Exploring**: System-level programming and better frontend–backend integration  
+- 🚀 **Goals**:
+  - Become a well-rounded full-stack developer  
+  - Ship polished, production-ready projects  
+  - Start contributing to open-source projects  
+
+---
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BertrandOscarSaputra&show_icons=true&theme=radical)
 
+---
+
 ## 📫 Connect With Me
 
-- 🌐 **Portfolio**: [bertrand-os.tech](bertrand-os.tech)
+- 🌐 **Portfolio**: [https://bertrand-os.tech](https://bertrand-os.tech)
 - 💼 **LinkedIn**: [Bertrand Oscar Saputra](https://www.linkedin.com/in/bertrand-oscar-saputra-684557327/)
 - 📧 **Email**: bertrandosc@gmail.com
 
-## 🎉 Fun Section
+---
 
-Add something unique about yourself:
-- I love sports and JRPG games!
+## 🎮 Fun & Personal
+
+- ⚽ I enjoy sports  
+- 🎮 I love playing JRPG games  
+- ⚙️ Always curious about how things work under the hood
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to check out my repositories or reach out for collaboration.*
