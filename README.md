@@ -3,7 +3,6 @@
 🎓 **Undergraduate Student** at Universitas Klabat  
 📍 **Based in Indonesia**  
 💻 **Aspiring Full-Stack Developer**  
-🔗 GitHub: [@BertrandOscarSaputra](https://github.com/BertrandOscarSaputra)
 
 ---
 
@@ -51,12 +50,6 @@ My development journey started with simple curiosity about how websites work, an
   - Become a well-rounded full-stack developer  
   - Ship polished, production-ready projects  
   - Start contributing to open-source projects  
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BertrandOscarSaputra&theme=dark)
 
 ---
 
