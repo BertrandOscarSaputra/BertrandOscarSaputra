@@ -56,7 +56,7 @@ My development journey started with simple curiosity about how websites work, an
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BertrandOscarSaputra&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=BertrandOscarSaputra&theme=tokyonight)
 
 ---
 
