@@ -14,7 +14,7 @@ I’m especially interested in **web and mobile development**, where I enjoy exp
 
 My development journey started with simple curiosity about how websites work, and it has grown into a continuous pursuit of **learning, experimenting, and shipping real-world projects**.
 
-**Fun fact:** I love optimizing things — whether it’s website performance, code structure, or developer workflows.
+**Fun fact:** I love optimizing things - whether it’s website performance, code structure, or developer workflows.
 
 ---
 
