@@ -14,8 +14,6 @@ I’m especially interested in **web and mobile development**, where I enjoy exp
 
 My development journey started with simple curiosity about how websites work, and it has grown into a continuous pursuit of **learning, experimenting, and shipping real-world projects**.
 
-**Fun fact:** I love optimizing things - whether it’s website performance, code structure, or developer workflows.
-
 ---
 
 ## 🧠 Tech Stack & Interests
@@ -38,18 +36,6 @@ My development journey started with simple curiosity about how websites work, an
 - Clean architecture & maintainable code
 - UI/UX with attention to detail
 - Experimenting with new tech stacks
-
----
-
-## 🎯 Current Focus
-
-- 📚 **Learning**: Advanced Next.js, performance optimization, and Rust  
-- 🛠 **Building**: Personal web projects & experimental developer tools  
-- 🔍 **Exploring**: System-level programming and better frontend–backend integration  
-- 🚀 **Goals**:
-  - Become a well-rounded full-stack developer  
-  - Ship polished, production-ready projects  
-  - Start contributing to open-source projects  
 
 ---
 
