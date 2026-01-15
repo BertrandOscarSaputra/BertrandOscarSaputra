@@ -16,43 +16,10 @@ My development journey started with simple curiosity about how websites work, an
 
 ---
 
-## 🧠 Tech Stack & Interests
-
-**Languages**
-- TypeScript
-- JavaScript
-- Python
-- (Currently exploring **Rust** 🦀)
-
-**Frameworks & Tools**
-- Next.js
-- React
-- React Native
-- Firebase
-- Git & GitHub
-
-**What I enjoy working on**
-- Performance optimization
-- Clean architecture & maintainable code
-- UI/UX with attention to detail
-- Experimenting with new tech stacks
-
----
-
-## 📫 Connect With Me
-
-- 🌐 **Portfolio**: [https://bertrand-os.tech](https://bertrand-os.tech)
-- 💼 **LinkedIn**: [Bertrand Oscar Saputra](https://www.linkedin.com/in/bertrand-oscar-saputra-684557327/)
-- 📧 **Email**: bertrandosc@gmail.com
-
----
-
 ## 🎮 Fun & Personal
 
-- ⚽ I enjoy sports  
-- 🎮 I love playing JRPG games  
-- ⚙️ Always curious about how things work under the hood
+- I love sports  
+- I love playing JRPG games  
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to check out my repositories or reach out for collaboration.*
